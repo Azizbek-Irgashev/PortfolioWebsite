@@ -1,0 +1,28 @@
+body {
+    font-family: 'Courier New', monospace;
+    background: linear-gradient(to right, #ffffff, #f1f1f1);
+    color: #444;
+    margin: 0;
+}
+
+header {
+    background-color: #264653;
+    padding: 1.2rem;
+    text-align: center;
+    color: #e9c46a;
+}
+
+nav ul li a:hover {
+    color: #f4a261;
+}
+
+.project img {
+    border-radius: 10px;
+    border: 3px solid #e76f51;
+}
+
+footer {
+    background-color: #264653;
+    color: #fff;
+    padding: 1rem 0;
+}
